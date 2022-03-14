@@ -10,7 +10,7 @@ body {
 }
 .container {
   width: 350px;
-  height: 730px;
+  height: 936px;
   background: linear-gradient(to top right, #181930 50%, #3b3c58),
     linear-gradient(220deg, transparent 75%, #f5b300);
   border-radius: 40px;
@@ -82,13 +82,25 @@ div.medium {
   border-radius: 20px;
 }
 
+div.medium2 {
+  height: 155px;
+  border-radius: 20px;
+  margin-top: -40px;
+}
+
 .bg-col-2 {
   background-color: #d5d7ff;
 }
 
 div.small {
-  height: 100px;
+  height: 148px;
   border-radius: 20px;
+}
+
+div.small2 {
+  height: 148px;
+  border-radius: 20px;
+  margin-top: -40px;
 }
 
 .bg-col-3 {
